@@ -18,20 +18,6 @@ This project demonstrates how to implement **Simple Linear Regression** from scr
 - Comparing predicted vs actual values
 - Visualizing the trained model
 
----
-
-## 📁 Project Structure
-
-SimpleLinearRegressionFromScratch/
-│
-├── notebook.ipynb                    # Your Jupyter notebook
-├── data/
-│   └── salary.csv                    # Dataset you're using
-├── handwritten-notes/                # Will put notes here soon
-│   └── (empty for now)
-├── README.md                         # We’ll write this together
-└── requirements.txt                  # Dependencies
-
 
 ---
 
